@@ -1,0 +1,36 @@
+{
+  "editor.tabSize": 2,
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "editor.renderWhitespace": "all",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "terminal.integrated.rendererType": "dom",
+  "git.ignoreMissingGitWarning": true,
+  "workbench.editor.enablePreview": false,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "emmet.extensionsPath": [""],
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.defaultDateFormat": "",
+  "workbench.colorTheme": "Gruvbox Dark (Hard)"
+}
